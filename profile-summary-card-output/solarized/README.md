@@ -45,6 +45,16 @@
 
 ---
 
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/CA-Lee/CA-Lee/master/profile-summary-card-output/solarized/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
