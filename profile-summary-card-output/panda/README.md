@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/CA-Lee/CA-Lee/master/profile-summary-card-output/panda/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/CA-Lee/CA-Lee/master/profile-summary-card-output/panda/4-productive-time.svg)
+```
+
+    
